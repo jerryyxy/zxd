@@ -54,4 +54,10 @@
 > ## 🔥【我的专业是人工智能】
 > ## 🔥【我最喜欢的代码】
 > ```python
-print("Hello, World!")
+improt numpy as np
+print(np.array([1, 2, 3]) ** 2)
+## 🔥【我最喜欢的环境管理工具是conda】
+![](https://github.com/jerryyxy/zxd/blob/main/%E4%B8%8B%E8%BD%BD.jpg)
+
+
+

@@ -1,5 +1,5 @@
 # 悍匪档案   
-![]()
+![](https://github.com/jerryyxy/zxd/blob/main/%E4%B8%8B%E8%BD%BD.jpg)
 
 ---
 

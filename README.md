@@ -1,5 +1,6 @@
 # 悍匪档案   
-！[悍匪]("C:\Users\18382\Desktop\OIP.jpg")
+！[悍匪](![image](https://github.com/user-attachments/assets/19a25372-7958-46e9-b822-ba1d4688e871)
+)
 
 ---
 

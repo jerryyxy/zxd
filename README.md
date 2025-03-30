@@ -46,7 +46,7 @@ print(np.array([1, 2, 3]) ** 2)
 ## 🔥【我最喜欢的环境管理工具是conda】
 ![](https://github.com/jerryyxy/zxd/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-09%20190154.png)
 ## 🔥【我可以在IDE上使用我建立的虚拟环境】
-![](https://github.com/jerryyxy/zxd/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-09%20215404.png)
+![]https://github.com/jerryyxy/zxd/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-30%20144237.png)
 
 
 

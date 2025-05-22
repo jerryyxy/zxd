@@ -20,7 +20,7 @@
 
 ## 7.推理能力验证
 
-![6](推理能力验证运行截图.png)
+![6](https://github.com/livoxzxd/-/blob/main/YXYTOP/%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E9%AA%8C%E8%AF%81%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
 
 # 10.RNN 
 

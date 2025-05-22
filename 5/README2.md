@@ -8,7 +8,7 @@
 
 ## 4.模型结构验证
 
-![4](模型结构验证运行截图.png)
+![4](https://github.com/livoxzxd/-/blob/main/YXYTOP/%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84%E9%AA%8C%E8%AF%81%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
 
 
 

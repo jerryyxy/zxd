@@ -14,7 +14,7 @@
 
 ## 5.RNN序列处理验证
 
-![5](RNN序列处理验证运行截图.png)
+![5](https://github.com/livoxzxd/-/blob/main/YXYTOP/RNN%E5%BA%8F%E5%88%97%E5%A4%84%E7%90%86%E9%AA%8C%E8%AF%81%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
 
 ## 6.模型性能评估
 

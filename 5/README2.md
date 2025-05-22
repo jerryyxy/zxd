@@ -26,4 +26,4 @@
 
 ### 有条件姓氏生成
 
-![10_2](有条件姓氏生成.png)
+![10_2](https://github.com/livoxzxd/-/blob/main/YXYTOP/%E6%9C%89%E6%9D%A1%E4%BB%B6%E5%A7%93%E6%B0%8F%E7%94%9F%E6%88%90.png)
